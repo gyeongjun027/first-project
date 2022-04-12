@@ -130,6 +130,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+	  button_input = HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_13);
   }
   /* USER CODE END 3 */
 }
