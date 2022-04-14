@@ -95,7 +95,7 @@ uint16_t button_input;
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-1
+
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
